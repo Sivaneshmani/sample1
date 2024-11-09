@@ -8,9 +8,8 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>DevOps world.com</title>
-
-
+    <title>DevOps world.com</title>  
+    
     <!-- Custom styles for this template -->
     <link href="jumbotron.css" rel="stylesheet">
 
@@ -22,6 +21,7 @@
 </head>
 
 <body>
+	<h1> HELLO WORLD .. </h1>
 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
